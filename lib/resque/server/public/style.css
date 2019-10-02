@@ -89,3 +89,7 @@ body { padding:0; margin:0; }
 #failed tr.total td {background-color: #FFECEC; color: #D37474; font-size: 15px; font-weight: bold;}
 #failed .center {text-align: center;}
 #failed .failed_class { padding-left: 20px; font-size:12px; }
+
+.show_queues_container { overflow: hidden; height: 25px; }
+.button_container { float: left; }
+.loading_container { float: left; margin-left: 10px; display: none; }
